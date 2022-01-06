@@ -45,7 +45,7 @@
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/ContBee
 [youtube]: https://www.youtube.com/channel/UCgL6XClrrbW7vMlxt9dg7WA
-[instagram]: https://instagram.com/bee_cont
+[instagram]: https://www.instagram.com/contbee/
 [linkedin]: https://linkedin.com/in/codeSTACKr
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
