@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I want to collaborate with other web developers
 - 🥅 2022 Goals: Get more combat experience
-- ⚡ Fun fact: I love making desktop applications and playing computer games
+- ⚡ Fun fact: I love making desktop applications
 
 ### Connect with me:
 
