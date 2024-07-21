@@ -38,7 +38,7 @@ I'm a developer with basic knowledge of frontend development, focusing on backen
 
 ### 📊 Stats
 
-![BeeCont's GitHub stats](https://github-readme-stats.vercel.app/api?username=beecont&show_icons=true&theme=gruvbox)
+![BeeCont's GitHub stats](https://github-readme-stats.vercel.app/api?username=BeeCont&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 
